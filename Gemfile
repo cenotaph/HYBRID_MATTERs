@@ -47,7 +47,7 @@ gem 'capistrano-rvm'
 gem 'capistrano-bundler'#, '1.1.4'
 gem 'capistrano3-puma', github: "seuros/capistrano-puma"
 
-gem 'carrierwave', '~> 0.11'
+gem 'carrierwave', '~> 1.3'
 gem 'carrierwave-aws', '~> 1.0', '>= 1.0.2'
 gem 'carrierwave-mongoid'
 gem 'mongoid-grid_fs', github: 'ahoward/mongoid-grid_fs'
